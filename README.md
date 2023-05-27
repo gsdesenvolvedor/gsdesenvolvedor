@@ -22,4 +22,4 @@ Meus projetos independentes e de portfólio estão disponíveis no site: [GS Des
 
 Meu projeto hobbista atual é o desenvolvimento de um espaço de conteúdo de programação e tecnologia: [Código e Conteúdo](https://codigoeconteudo.com.br).
 
-Sou desenvolvedor de sistemas no Grupo Rivesa em Maringá desde 2018 e na Agência Champz (autônomo) desde 2019.
+Sou desenvolvedor de sistemas no Grupo Rivesa em Maringá desde 2018 e na Agência [Champz](https://champz.com.br) (autônomo) desde 2019.
