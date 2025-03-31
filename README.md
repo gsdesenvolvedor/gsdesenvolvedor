@@ -6,6 +6,6 @@
 
 Sou técnico programador formado em 2018 e trabalhando com programação desde então. 
 
-Meu histórico profissional pode ser encontrado no [LinkedIn](https://www.linkedin.com/in/gsdesenvolvedor/), [GitHub](https://github.com/gsdesenvolvedor) e em meu site: [Gabriel Souza](https://gabrielsouza.dev.br).
+Meu histórico profissional pode ser encontrado no [LinkedIn](https://www.linkedin.com/in/gsdesenvolvedor/) e em meu site: [Gabriel Souza](https://gabrielsouza.dev.br).
 
-Entre em contato comigo: contato@gabrielsouza.dev.br.
+Portfólio de Projetos: [GS Desenvolvedor](https://gabrielsouza.dev.br), contato: contato@gabrielsouza.dev.br.
