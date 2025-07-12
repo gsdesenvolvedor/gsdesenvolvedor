@@ -1,11 +1,13 @@
 ## Gabriel Souza  
 
-#### Desenvolvedor de Sistemas em Maringá - Paraná - Brasil.
+#### Desenvolvedor Full Stack DevOps | Node.js | SQL | AWS - Maringá, Paraná, Brasil.
 
 <br>
 
-Sou técnico programador formado em 2018 e trabalhando com programação desde então. 
+Atuo em todas as etapas do desenvolvimento, incluindo o planejamento das atividades, desenvolvimento, suporte, manutenção e implantação. Já atuei em diversas integrações com APIs RESTful e automações de fluxos de trabalho.
 
-Meu histórico profissional pode ser encontrado no [LinkedIn](https://www.linkedin.com/in/gsdesenvolvedor/) e meu portfólio profissional em: [Gabriel Souza](https://gabrielsouza.dev.br).
+Sou desenvolvedor web com foco em backend, atualmente Node.js, especialmente no framework AdonisJS e a biblioteca Express. Experiência em bancos de dados MySQL, PostgreSQL e SQL Server.
 
-Portfólio de Projetos Independentes: [GS Desenvolvedor](https://gsdesenvolvedor.com.br), contato: gsdesenvolvedor@hotmail.com.
+Também atuo no frontend sob a tríade HTML, CSS e JavaScript, criando interfaces responsivas e com boa experiência do usuário. Utilizo AWS como estrutura de nuvem e diversos de seus serviços para deploy e infra.
+
+Já desenvolvi projetos de estudos e/ou atuei com Go (Golang), PHP, Python e Java. Busco constante evolução técnica e soluções inovadoras, open sources e proprietárias.
