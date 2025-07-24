@@ -4,10 +4,10 @@
 
 <br>
 
-Atuo em todas as etapas do desenvolvimento, incluindo o planejamento das atividades, desenvolvimento, suporte, manutenção e implantação. Já atuei em diversas integrações com APIs RESTful e automações de fluxos de trabalho.
+Atuo em todas as etapas do desenvolvimento de software, desde o planejamento até a codificação, suporte, manutenção e implantação. Tenho experiência em integrações com APIs RESTful e automação de fluxos de trabalho.
 
-Sou desenvolvedor web com foco em backend, atualmente Node.js, especialmente no framework AdonisJS e a biblioteca Express. Experiência em bancos de dados MySQL, PostgreSQL e SQL Server.
+Sou desenvolvedor web com foco em backend, utilizando Node.js, com destaque para o framework AdonisJS e a biblioteca Express. Trabalho com bancos de dados relacionais como MySQL, PostgreSQL e SQL Server.
 
-Também atuo no frontend sob a tríade HTML, CSS e JavaScript, criando interfaces responsivas e com boa experiência do usuário. Utilizo AWS como estrutura de nuvem e diversos de seus serviços para deploy e infra.
+No frontend, utilizo HTML, CSS e JavaScript para desenvolver interfaces responsivas e com boa experiência do usuário. Em Cloud Computing, faço uso dos serviços da AWS para deploy e infraestrutura em nuvem.
 
-Já desenvolvi projetos de estudos e/ou atuei com Go (Golang), PHP, Python e Java. Busco constante evolução técnica e soluções inovadoras, open sources e proprietárias.
+Já desenvolvi projetos com Go (Golang), PHP, Python e Java, tanto em estudos quanto em aplicações reais. Estou em constante busca por evolução técnica e por soluções inovadoras, sejam elas open source ou proprietárias.
