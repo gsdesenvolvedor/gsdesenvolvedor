@@ -1,6 +1,6 @@
 ## Gabriel Souza  
 
-#### Full Stack DevOps | Node.js | AWS - Maringá, Paraná, Brasil.
+#### Software Developer | Automations & Cloud - Maringá, Paraná, Brasil.
 
 <br>
 
