@@ -1,6 +1,6 @@
 ## Gabriel Souza  
 
-#### Software Developer | Tech Lead - Maringá, Paraná, Brasil.
+#### Software Developer | Automations & Cloud - Maringá, Paraná, Brasil.
 
 <br>
 
