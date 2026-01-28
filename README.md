@@ -4,11 +4,13 @@
 
 <br>
 
-Atuo em todo o ciclo de desenvolvimento de software, do planejamento à implantação, manutenção e suporte. Tenho experiência em integrações com APIs RESTful e automação de fluxos de trabalho.
+Atuo há mais de 7 anos transformando processos em eficiência por meio de tecnologia e liderança.
 
-Sou desenvolvedor web com foco em backend em Node.js, utilizando principalmente AdonisJS e Express, além de trabalhar com bancos de dados MySQL, PostgreSQL e SQL Server. No frontend, desenvolvo interfaces responsivas com HTML, CSS e JavaScript.
+Reconhecido pelo viés inovador, acredito que bom código é aquele que resolve problemas reais e gera valor de negócio. Possuo sólida experiência em arquitetura de APIs RESTful, modelagem de dados complexos (MySQL, PostgreSQL e SQL Server), infraestrutura em nuvem, automação de fluxos e integrações entre sistemas, sempre com foco em escalabilidade, performance e manutenibilidade.
 
-Também utilizo serviços AWS para deploy e infraestrutura em nuvem. Já desenvolvi projetos com Go, PHP, Python e Java, tanto em estudos quanto em aplicações reais. Estou sempre em busca de evolução técnica e de soluções inovadoras, open source ou proprietárias.
+Como diferencial, trago um forte mindset ágil, experiência prática com Node.js (TypeScript), PHP e Java, automação de processos voltada à redução de custos e aceleração do time-to-market, além de atuação consistente na gestão de demandas, projetos, tarefas e documentação técnica.
+
+Se você busca soluções tecnológicas sólidas, escaláveis e orientadas a resultados, estou pronto para transformar desafios em produtos que geram impacto real.
 
 <br>
 Leitura dos Repositórios (Por Prefixo):
