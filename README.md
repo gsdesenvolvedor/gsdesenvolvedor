@@ -9,3 +9,11 @@ Atuo em todo o ciclo de desenvolvimento de software, do planejamento à implanta
 Sou desenvolvedor web com foco em backend em Node.js, utilizando principalmente AdonisJS e Express, além de trabalhar com bancos de dados MySQL, PostgreSQL e SQL Server. No frontend, desenvolvo interfaces responsivas com HTML, CSS e JavaScript.
 
 Também utilizo serviços AWS para deploy e infraestrutura em nuvem. Já desenvolvi projetos com Go, PHP, Python e Java, tanto em estudos quanto em aplicações reais. Estou sempre em busca de evolução técnica e de soluções inovadoras, open source ou proprietárias.
+
+<br>
+Leitura dos Repositórios (Por Prefixo):
+1. GSD Showcase: Projetos de Portfólio;
+2. GSD Learning: Conteúdo de Aprendizado;
+3. GSD Challenge: Desafios Técnicos;
+4. GSD Example: Aplicações de Exemplo;
+5. GSD [Name]: Aplicações de Produção (Projetos Reais).
