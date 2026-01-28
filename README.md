@@ -16,4 +16,5 @@ Leitura dos Repositórios (Por Prefixo):
 2. GSD Learning: Conteúdo de Aprendizado;
 3. GSD Challenge: Desafios Técnicos;
 4. GSD Example: Aplicações de Exemplo;
-5. GSD [Name]: Aplicações de Produção (Projetos Reais).
+5. GSD Starter: Template Inicial Configurada para Apps;
+6. GSD [Name]: Aplicações de Produção (Projetos Reais).
