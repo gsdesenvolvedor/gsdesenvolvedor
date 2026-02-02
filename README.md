@@ -8,8 +8,6 @@ Acredito que bom código é aquele que resolve problemas reais e gera valor de n
 
 Como diferencial, trago um forte mindset ágil, experiência prática com Node.js (TypeScript), PHP e Java, automação de processos voltada à redução de custos e aceleração do time-to-market, além de atuação consistente na gestão de demandas, projetos, tarefas e documentação técnica.
 
-Se você busca soluções tecnológicas sólidas, escaláveis e orientadas a resultados, estou pronto para transformar desafios em produtos que geram impacto real.
-
 <br>
 Leitura dos Repositórios (Por Prefixo):
 1. GSD Showcase: Projetos de Portfólio;
