@@ -1,6 +1,6 @@
 ## Gabriel Souza  
 
-#### Software Developer | Automations & Cloud - Maringá, Paraná, Brasil.
+#### Software Developer | Specialist in Workflow Automations, System Integrations & AWS Cloud - Maringá, Paraná, Brasil.
 
 <br>
 
