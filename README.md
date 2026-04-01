@@ -4,9 +4,9 @@
 
 <br>
 
-Sou desenvolvedor de software com quase uma década de experiência, atuando do início ao fim na construção de soluções escaláveis, integrações complexas e automação de processos. Especializado em transformar operações manuais e sistemas desconectados em fluxos eficientes com n8n, Node-RED e Power Automate. Frequentemente sou reconhecido pelo perfil inovador, aplicando tecnologia de forma estratégica para gerar impacto direto no negócio. 
+Sou desenvolvedor de software com quase uma década de atuação na área, com foco na construção de soluções escaláveis, integrações complexas e automação de processos. Especializado em transformar operações manuais e sistemas desconectados em fluxos eficientes com n8n, Node-RED, entre outras ferramentas. 
 
-Possuo forte atuação em arquitetura de APIs RESTful, modelagem de dados (MySQL, PostgreSQL e SQL Server) e infraestrutura em nuvem (AWS), com foco em performance, escalabilidade e confiabilidade. Experiência sólida com Node.js (TypeScript) e PHP (Laravel e CodeIgniter), contribuindo na definição de soluções, organização técnica e entrega consistente de sistemas robustos.
+Tenho forte experiência em APIs RESTful, modelagem de dados (MySQL, PostgreSQL e SQL Server) e infraestrutura AWS, com foco em performance, escalabilidade e confiabilidade. Atuo com Node.js (TypeScript) e PHP (Laravel e CodeIgniter), contribuindo na arquitetura de soluções e na entrega consistente de sistemas robustos.
 
 <br>
 Leitura dos Repositórios (Por Prefixo):
